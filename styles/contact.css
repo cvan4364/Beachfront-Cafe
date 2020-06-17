@@ -11,7 +11,7 @@
 }
 
 .company-metadata-sidebar-wrapper > .company-details-wrapper {
-    font-family: 'Amatic SC';
+    font-family: 'Amatic SC', cursive;
     font-weight: 900;
     display: flex;
     justify-content: space-between;
